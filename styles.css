@@ -714,6 +714,15 @@ main {
  * #clients 
  */
 
+
+@media (min-width: 768px) {
+  .sidebar {
+    width: 700px;
+  }
+}
+
+
+
 .clients { margin-bottom: 15px; }
 
 .clients-list {
